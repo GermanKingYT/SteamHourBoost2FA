@@ -9,4 +9,3 @@ Enjoy.
 
 
 Credits to frk for the first version without 2FA. https://high-minded.net/members/frk.45/
-Credits to Radat. for the update with 2FA. https://high-minded.net/members/radat.21172/
